@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B315CC422588F30100A113B3 /* SettingTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B315CC412588F30100A113B3 /* SettingTableViewController.swift */; };
 		B3E2C1CA2588940900642C3A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3E2C1C92588940900642C3A /* AppDelegate.swift */; };
 		B3E2C1CC2588940900642C3A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3E2C1CB2588940900642C3A /* SceneDelegate.swift */; };
 		B3E2C1CE2588940900642C3A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3E2C1CD2588940900642C3A /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B315CC412588F30100A113B3 /* SettingTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingTableViewController.swift; sourceTree = "<group>"; };
 		B3E2C1C62588940900642C3A /* shopping APP.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "shopping APP.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B3E2C1C92588940900642C3A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B3E2C1CB2588940900642C3A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				B3E2C1CB2588940900642C3A /* SceneDelegate.swift */,
 				B3E2C1CD2588940900642C3A /* ViewController.swift */,
 				B3E2C1CF2588940900642C3A /* Main.storyboard */,
+				B315CC412588F30100A113B3 /* SettingTableViewController.swift */,
 				B3E2C1D22588940C00642C3A /* Assets.xcassets */,
 				B3E2C1D42588940C00642C3A /* LaunchScreen.storyboard */,
 				B3E2C1D72588940C00642C3A /* Info.plist */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B315CC422588F30100A113B3 /* SettingTableViewController.swift in Sources */,
 				B3E2C1CE2588940900642C3A /* ViewController.swift in Sources */,
 				B3E2C1CA2588940900642C3A /* AppDelegate.swift in Sources */,
 				B3E2C1CC2588940900642C3A /* SceneDelegate.swift in Sources */,
